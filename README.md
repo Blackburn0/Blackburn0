@@ -1,8 +1,7 @@
-### Hello 👋, I am Hamzat 😀
+<h1 align="center">Hello 👋, I'm Hamzat 😀</h1>
+<h3 align="center">I am a Full Stack Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  making creative things</h3>
 
-### A Little About me
-- 😜 I am a Full Stack Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  making creative things
-- 💻 How to reach me: [https://www.linkedin.com/in/hamzat-adebayo-042359116/] [hamzatadebayo5@gmail.com]
+- 📫 How to reach me **hamzatadebayo5@gmail.com**  **https://www.linkedin.com/in/hamzat-adebayo-042359116/**
 
 <br>
 
