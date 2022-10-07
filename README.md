@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hamzat 😀</h1>
 <h3 align="center">I am a Full Stack Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  making creative things</h3>
 
-- 📫 How to reach me **hamzatadebayo5@gmail.com**  **https://www.linkedin.com/in/hamzat-adebayo-042359116/**
+- 📫 How to reach me **hamzatadebayo5@gmail.com** <br> **https://www.linkedin.com/in/hamzat-adebayo-042359116/**
 
 <br>
 
