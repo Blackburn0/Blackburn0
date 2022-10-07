@@ -23,16 +23,17 @@
   <a href="https://web.dev/learn/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> </a>
 
   <!-- Javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
+[![Blackburn0 github activity graph](https://activity-graph.herokuapp.com/graph?username=Blackburn0&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-green.svg)
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Blackburn0}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
   <!-- C -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="javascript" width="40" height="40"/> </a>
 
   <!-- Django -->       
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="javascript" width="40" height="40"/> </a>
+
 
   <!-- Docker -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="javascript" width="40" height="40"/> </a>          
+      
 </p>
 
 <br>
@@ -50,8 +51,3 @@
 **Blackburn0/Blackburn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
-
-[![Prince github activity graph](https://activity-graph.herokuapp.com/graph?username=princecodes247&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](./profile-3d-contrib/profile-night-green.svg)
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{princecodes247}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
