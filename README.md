@@ -7,7 +7,6 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Blackburn0&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackburn0">
 
 <br>
 
