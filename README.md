@@ -22,28 +22,22 @@
   <!-- CSS -->
   <a href="https://web.dev/learn/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> </a>
 
-
-            
-          
-
   <!-- Javascript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvis020&langs_count=10&layout=compact&theme=radical)](https://github.com/elvis020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackburn0&langs_count=10&layout=compact&theme=radical)](https://github.com/Blackburn0/github-readme-stats)
 
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <div>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Elvis020&column=7&no-frame=true&theme=radical)"/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elvis020&theme=radical)"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Blackburn0&column=7&no-frame=true&theme=radical)"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Blackburn0&theme=radical)"/>
 </div>
 <!--
-**Elvis020/Elvis020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Blackburn0/Blackburn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
