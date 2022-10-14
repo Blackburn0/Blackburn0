@@ -3,7 +3,7 @@
 
 - 📫 How to reach me <br>
             Email: **hamzatadebayo5@gmail.com** <br>
-            LinkedIn: **https://www.linkedin.com/in/hamzat-adebayo-042359116/**
+            LinkedIn: **https://www.linkedin.com/in/hamzat-adebayo**
 
 <br>
 
