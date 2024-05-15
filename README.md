@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hamzat 😀</h1>
-<h3 align="center">I am a Back End Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  making creative things</h3>
+<h3 align="center">I am a Back End Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  developing creative things</h3>
 
 - 📫 How to reach me <br>
             Email: **hamzatadebayo5@gmail.com** <br>
