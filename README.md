@@ -1,40 +1,11 @@
 <h1 align="center">Hello 👋, I'm Hamzat 😀</h1>
-<h3>I am a Back End Web Developer, Cloud Developer and an Entrepreneur at heart with no boundaries when it comes to learning new technologies and  developing creative things</h3>
-
-- 📫 How to reach me <br>
-            Email: **hamzatadebayo5@gmail.com** <br>
-            LinkedIn: **https://www.linkedin.com/in/hamzat-adebayo**
+<p>I am a Software and Cloud Developer with an entrepreneurial mindset, driven by a passion for learning and building innovative, scalable solutions. I thrive on exploring new technologies and turning creative ideas into real-world impact, especially those that contribute to global progress and local development</p>
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Blackburn0&show_icons=true&theme=radical">
 
 <br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="cpp" height="40"
-style="vertical-align:top; margin: 4px">
-
-  <!-- Javascript -->
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-
-<!-- Mysql -->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-  <!-- Django -->
-  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> -->
-  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> 
-  <!-- </a> -->
-      
-</p>
 
 <br>
 
