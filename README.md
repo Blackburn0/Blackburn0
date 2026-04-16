@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hamzat 😀</h1>
-<p>I am a Software and Cloud Developer with an entrepreneurial mindset, driven by a passion for learning and building innovative, scalable solutions. I thrive on exploring new technologies and turning creative ideas into real-world impact, especially those that contribute to global progress and local development</p>
+<p>I am a Software and Ai Automations Engineet with an entrepreneurial mindset, driven by a passion for learning and building innovative, scalable solutions. I thrive on exploring new technologies and turning creative ideas into real-world impact, especially those that contribute to global progress and local development</p>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
